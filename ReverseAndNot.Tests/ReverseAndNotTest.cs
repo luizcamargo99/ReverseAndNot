@@ -1,5 +1,3 @@
-using Microsoft.VisualStudio.TestPlatform.TestHost;
-
 namespace ReverseAndNot.Tests;
 
 public class ReverseAndNotTest
